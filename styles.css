@@ -1,0 +1,29 @@
+body {
+    background-color: rgba(255, 228, 196, 0.692);
+    font-family: 'Anton', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+font-size: 150px;
+font-weight: bold;
+margin-bottom: 0;
+}
+
+.case-2{ 
+    margin-bottom: 5px;
+}
+
+.case-3{
+    background-color: black;
+    color: white;
+    padding: 0 10px 0 10px;
+    border-radius: 25px;
+}
+
